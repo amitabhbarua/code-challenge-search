@@ -50,6 +50,10 @@ namespace ConstructionLine.CodingChallenge
             {
                 result = sizeOnly(_shirts, options.Sizes);
             }
+            else
+            {
+                result = _shirts;
+            }
 
             #endregion
 
