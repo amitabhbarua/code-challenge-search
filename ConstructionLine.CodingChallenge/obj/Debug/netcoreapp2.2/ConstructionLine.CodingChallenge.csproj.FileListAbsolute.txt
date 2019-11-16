@@ -6,3 +6,11 @@ C:\Users\amita\Source\Repos\coding-challenge\ConstructionLine.CodingChallenge\ob
 C:\Users\amita\Source\Repos\coding-challenge\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.AssemblyInfo.cs
 C:\Users\amita\Source\Repos\coding-challenge\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.dll
 C:\Users\amita\Source\Repos\coding-challenge\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.pdb
+C:\Users\amita\Source\Repos\code-challenge-search\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.csprojAssemblyReference.cache
+C:\Users\amita\Source\Repos\code-challenge-search\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.AssemblyInfoInputs.cache
+C:\Users\amita\Source\Repos\code-challenge-search\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.AssemblyInfo.cs
+C:\Users\amita\Source\Repos\code-challenge-search\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.dll
+C:\Users\amita\Source\Repos\code-challenge-search\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.pdb
+C:\Users\amita\Source\Repos\code-challenge-search\ConstructionLine.CodingChallenge\bin\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.deps.json
+C:\Users\amita\Source\Repos\code-challenge-search\ConstructionLine.CodingChallenge\bin\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.dll
+C:\Users\amita\Source\Repos\code-challenge-search\ConstructionLine.CodingChallenge\bin\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.pdb
